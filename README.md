@@ -16,12 +16,6 @@ Nhóm máy học lớp CS114.L22.KHCL - UIT
 | 3	|[Nguyễn Mạnh Toàn](https://www.facebook.com/acma.thosan.1)	  | 19522363	| ![](https://img.shields.io/badge/-Member-yellow)  |[toana21911](https://github.com/toana21911)|
 ---
 
-Assignments: bài tập ở lớp.
-
-Project: tất cả những gì liên quan đến đồ án môn học.
-
----
-
 ## Progress:
 - [x] **Week 1** 
 - [x] **Week 2** 
@@ -31,5 +25,12 @@ Project: tất cả những gì liên quan đến đồ án môn học.
 - [x] **Week 6**
 - [x] **Week 7**
   - [x] **[Hand-written digits recognition](https://github.com/taolaobd/CS114.L22.KHCL/blob/main/Assignments/BTAP1ML.ipynb)**
+---
+
+Assignments: bài tập ở lớp.
+
+Project: tất cả những gì liên quan đến đồ án môn học.
+
+
 
 
