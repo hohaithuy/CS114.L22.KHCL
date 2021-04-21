@@ -2,8 +2,8 @@
 Nhóm máy học lớp CS114.L22.KHCL - UIT
 ![](https://img.shields.io/badge/Status-working-brightgreen) [![](https://img.shields.io/badge/Contributors-3-brightgreen)](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/graphs/contributors)
 ## Lecturer:
-- **Mr. Nguyen Thanh Son**   
-- **Mrs. Huynh Thi Thanh Thuong**
+- **Mr. Pham Nguyen Truong An**   
+- **Mr. Le Dinh Duy**
 ---
 
 ### Team member:
