@@ -29,6 +29,7 @@ Project: tất cả những gì liên quan đến đồ án môn học.
 - [x] **Week 4**
 - [x] **Week 5**
 - [x] **Week 6**
+- [x] **Week 7**
   - [x] **[Hand-written digits recognition](https://github.com/taolaobd/CS114.L22.KHCL/blob/main/Assignments/BTAP1ML.ipynb)**
 
 
