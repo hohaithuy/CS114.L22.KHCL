@@ -24,7 +24,7 @@ Nhóm máy học lớp CS114.L22.KHCL - UIT
 - [x] **Week 5**
 - [x] **Week 6**
 - [x] **Week 7**
-  - [x] **[Hand-written digits recognition](https://colab.research.google.com/drive/1dcHkot0Ne7WK1tihfzyWVZuySZ8bu8wq?usp=sharing)**
+  - [x] **[Hand-written digits recognition](https://colab.research.google.com/drive/1FVLXntsHloHOy0QunJqxlMtXVTeGtkxz?usp=sharing)**
 - [x] **Week 8**
 ---
 
