@@ -56,16 +56,16 @@
         
         +...
         
-      -  Ngoài ra các feature thêm vào được cân nhắc và tham khảo qua các trang tư vấn mua xe máy cũ như: 
+      -  Ngoài ra các feature thêm vào được cân nhắc và tham khảo qua các trang tư vấn và blog mua xe máy cũ như: 
         
          
-         +https://xe.chotot.com
+         +https://giaoduc.net.vn/mo-to/kinh-nghiem-mua-xe-may-cu-cho-nguoi-khong-sanh-ve-xe-post73620.gd
         
          
-         +https://www.webike.vn
+         +https://thibanglaixe.com.vn/xe-may-cu/
         
          
-         +https://choxeotofun.net/xe-may       
+         +https://blog.muaban.net/5-luu-y-khi-mua-xe-o-cua-hang-xe-may-cu/   
          
          +...
         
