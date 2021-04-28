@@ -82,13 +82,12 @@
    - Cách thu nhập: 
      - Tạo google form, khảo sát nặc danh bao gồm tên công việc, địa điểm làm việc(tỉnh), mức lương, mức độ hài long từ 0 đến 10 trên các group việc làm
      - Phỏng vấn nhân viên ở các công ty.
-     - Tham khảo mức lương của công việc trên trang https://jobsgo.vn/tra-cuu-luong.html . 
-       +Nếu tiền lương input bằng với mức lương trung bình của trang thì độ hài lòng bằng 8
-       +Nếu tiền lương input bằng với
+     - Tham khảo mức lương của công việc trên trang https://jobsgo.vn/tra-cuu-luong.html .Quy đinh: tiền lương input bằng với lương trung bình của trang thì độ hài lòng bằng 6, tiền lương input lớn hơn khoảng lương phổ biến của trang thì độ hài lòng bằng 10.
+       +Độ hài lòng sẽ bằng tiền lương input chia cho lương trung bình của trang nhân với 6(Làm trong 1 đơn vị thập phân, nếu lớn hơn 10 thì quy về 10)
    - Xử lý data:
-     - Gộp toàn bộ dữ liệu trên thành một ma trận dưới dạng file csv, mỗi hàng của ma trận gồm có 4 cột tương ứng là tên công việc: string, địa điểm làm việc(tỉnh): string, số tiền lương(đơn vị triệu): float, cột cuối cùng sẽ là mức độ hài lòng của nhân viên đối với công việc( từ 0 đến 10).
+     - Gộp toàn bộ dữ liệu trên thành một ma trận dưới dạng file csv, mỗi hàng của ma trận gồm có 4 cột tương ứng là tên công việc: string, địa điểm làm việc(tỉnh): string, số tiền lương(đơn vị triệu): float, cột cuối cùng sẽ là mức độ hài lòng của nhân viên đối với công việc( từ 0 đến 10): float.
    - Output:
-     - Một số nguyên dương từ 0 đến 10: là mức độ hài lòng của nhân viên đối với công việc.
+     - Một số thực(float) từ 0 đến 10: là mức độ hài lòng của nhân viên đối với công việc.
 
 ---
     
