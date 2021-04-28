@@ -27,7 +27,6 @@
 
 2. Bài toán: Dự đoán giá mua xe máy (đã qua sử dụng) ở Việt Nam, giúp người tiêu dùng mua xe không bị "hớ"
    - Input:
-     - Giá mua mới tại hãng: dạng số nguyên , đơn vị ( triệu VNĐ)
      - Mẫu xe: dạng chuỗi kí tự.
      - Năm sản xuất: dạng số nguyên, đơn vị (năm)
      - Màu: dạng chuỗi kí tự.
@@ -36,7 +35,6 @@
      - Có hay Không có giấy tờ: 1 or 0
      - Chỉ số odometer: dạng số nguyên
      - Xe đã qua đại tu hay còn nguyên "zin": 1 or 0
-     - Chỉ số dung tích phân khối của xe: dạng số nguyên, đơn vị( cc )
    - Cách thu nhập: 
      - Dữ liệu sơ cấp: khảo sát các cửa hàng bán xe máy uy tín tại nhiều khu vực.
      - Số liệu chỉ số xe như là phân khối, mẫu xe, năm sản xuất... có thể lấy trực tiếp từ các hãng bán xe máy phổ biến như:
