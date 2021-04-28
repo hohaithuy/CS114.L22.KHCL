@@ -1,5 +1,13 @@
 # Ví dụ về bài toán Regression trong thực tế
+---
 
+### Team member:
+|No.| Full name         |Student ID       |Class      |
+|:-:|:------------------|:---------:|:--------:|
+| 1	|[Hồ Hải Thủy](https://www.facebook.com/suzu2k1)	| 19522323	| CS114.L22.KHCL |
+| 2	|[Nguyễn Khả Tiến](https://www.facebook.com/tiennguyenbangde)	| 19522337	| CS114.L22.KHCL |
+| 3	|[Nguyễn Mạnh Toàn](https://www.facebook.com/acma.thosan.1)	  | 19522363	| CS114.L22.KHCL  |
+---
 ---
 
 1. Bài toán: Dự đoán chỉ số ô nhiễm không khí ở Việt Nam
