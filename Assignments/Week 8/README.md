@@ -72,8 +72,7 @@
    - Output:
      - Một số nguyên dương là giá bán của 1 chiếc xe máy nào đó được đưa vào, đơn vị (Triệu VNĐ).  
  
-
- ----
+---
 3. Bài toán: Dự đoán mức độ hài lòng của nhân viên đối với công việc theo mức lương, nơi làm việc
    - Input:
      - Tên công việc: dạng chuỗi string
