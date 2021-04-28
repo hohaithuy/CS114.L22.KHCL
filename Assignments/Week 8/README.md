@@ -53,15 +53,21 @@
         +https://www.webike.vn
         
         +https://choxeotofun.net/xe-may
-     
-     -Ngoài ra các feature thêm vào được cân nhắc và tham khảo qua các trang tư vấn mua xe máy cũ như : 
+        
+        +...
+        
+      -  Ngoài ra các feature thêm vào được cân nhắc và tham khảo qua các trang tư vấn mua xe máy cũ như: 
+        
          
-         +https://thibanglaixe.com.vn/xe-may-cu/
+         +https://xe.chotot.com
+        
          
-         +https://zingnews.vn/6-buoc-can-lam-khi-mua-xe-may-cu-post364407.html
+         +https://www.webike.vn
+        
+         
+         +https://choxeotofun.net/xe-may       
          
          +...
-        
         
    - Xử lý data:
      - Gộp toàn bộ dữ liệu trên thành một ma trận dưới dạng file csv,mỗi hàng của ma trận là gồm có các cột tương ứng với chỉ số input (Gía mua mới, mẫu xe, odo,...). Cột cuối cùng sẽ là giá bán của chiếc xe máy đó.
