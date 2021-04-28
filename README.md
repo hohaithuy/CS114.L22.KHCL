@@ -26,6 +26,7 @@ Nhóm máy học lớp CS114.L22.KHCL - UIT
 - [x] **Week 7**
   - [x] **[Hand-written digits recognition](https://colab.research.google.com/drive/1FVLXntsHloHOy0QunJqxlMtXVTeGtkxz?usp=sharing)**
 - [x] **Week 8**
+  - [x] **[3 Ví dụ về regression trong thực tế](https://github.com/taolaobd/CS114.L22.KHCL/blob/main/Assignments/Week%208/README.md)**
 ---
 
 Assignments: bài tập ở lớp.
