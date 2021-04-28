@@ -32,13 +32,19 @@
    - Cách thu nhập: 
      - Dữ liệu sơ cấp: khảo sát các cửa hàng bán xe máy uy tín tại nhiều khu vực.
      - Số liệu chỉ số xe như là phân khối, mẫu xe, năm sản xuất... có thể lấy trực tiếp từ các hãng bán xe máy phổ biến như:
+     
          +Honda
+         
          +Yamaha
+         
          +...
      - Số liệu từ các trang bán xe máy qua mạng như: 
-         +https://xe.chotot.com
-         +https://www.webike.vn
-         +https://choxeotofun.net/xe-may
+        
+        +https://xe.chotot.com
+        
+        +https://www.webike.vn
+        
+        +https://choxeotofun.net/xe-may
    - Xử lý data:
      - Gộp toàn bộ dữ liệu trên thành một ma trận dưới dạng file csv,mỗi hàng của ma trận là gồm có các cột tương ứng với chỉ số input (Gía mua mới, mẫu xe, odo,...). Cột cuối cùng sẽ là giá bán của chiếc xe máy đó.
    - Output:
