@@ -17,16 +17,13 @@ Nhóm máy học lớp CS114.L22.KHCL - UIT
 ---
 
 ## Progress:
-- [x] **Week 1** 
-- [x] **Week 2** 
-- [x] **Week 3** 
-- [x] **Week 4**
-- [x] **Week 5**
-- [x] **Week 6**
-- [x] **Week 7**
-  - [x] **[Hand-written digits recognition](https://colab.research.google.com/drive/1FVLXntsHloHOy0QunJqxlMtXVTeGtkxz?usp=sharing)**
-- [x] **Week 8**
+- [x] **Assignments 1** 
+   - [x] **[Hand-written digits recognition](https://colab.research.google.com/drive/1FVLXntsHloHOy0QunJqxlMtXVTeGtkxz?usp=sharing)**
+- [x] **Assignments 2** 
   - [x] **[Ví dụ về regression trong thực tế](https://github.com/taolaobd/CS114.L22.KHCL/blob/main/Assignments/Week%208/README.md)**
+- [x] **Assignments 3** 
+  - [x] **[Bài toán dự đoán thời gian chạy của chương trình](https://colab.research.google.com/drive/1TBAq5vfZr_Coj6Fr4y6NYGnrV1U6q3Go?usp=sharing)**
+  
 ---
 
 Assignments: bài tập ở lớp.
