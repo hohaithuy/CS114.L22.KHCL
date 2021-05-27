@@ -23,7 +23,8 @@ Nhóm máy học lớp CS114.L22.KHCL - UIT
   - [x] **[Ví dụ về regression trong thực tế](https://github.com/taolaobd/CS114.L22.KHCL/blob/main/Assignments/Week%208/README.md)**
 - [x] **Assignments 3** 
   - [x] **[Bài toán dự đoán thời gian chạy của chương trình](https://colab.research.google.com/drive/1TBAq5vfZr_Coj6Fr4y6NYGnrV1U6q3Go?usp=sharing)**
-  
+- [x] **Assignments 4** 
+- [x] **[Bài toán dự đoán điểm thi cuối kỳ](https://colab.research.google.com/drive/1c4hvpgIR6qY4HVdHhqdwAhp-sVEGk_tH?usp=sharing)**
 ---
 
 Assignments: bài tập ở lớp.
