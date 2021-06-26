@@ -27,6 +27,8 @@ Nhóm máy học lớp CS114.L22.KHCL - UIT
   - [x] **[Bài toán dự đoán điểm thi cuối kỳ](https://colab.research.google.com/drive/13P23lUVUBQuxyD6SywzYIZhVNmS7Jjl-?usp=sharing&authuser=1#scrollTo=hjatFTCxFege)**
 - [x] **Assignments 5** 
   - [x] **[Thu thập dataset cho bài toán Sarcasm detection in news headline](https://colab.research.google.com/drive/1C5GBK1zorDS-9RSG7vLA5NMIJLrN5eHk?usp=sharing)**
+- [x] **Assignments 6** 
+  - [x] **[Dự đoán tiêu đề châm biếm](https://colab.research.google.com/drive/1zPesMhnGlEITGElioaj5pqfVAMIGnIBw?usp=sharing)**
 ---
 
 Assignments: bài tập ở lớp.
