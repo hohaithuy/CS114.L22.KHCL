@@ -30,8 +30,8 @@ Nhóm máy học lớp CS114.L22.KHCL - UIT
 - [x] **Assignments 6** 
   - [x] **[Dự đoán tiêu đề châm biếm](https://colab.research.google.com/drive/1zPesMhnGlEITGElioaj5pqfVAMIGnIBw?usp=sharing)**
 ---
-## <center>Tổng quan về đồ án cuối kỳ</center>
-<center>CHỦ ĐỀ: ĐEO KHẨU TRANG VỚI ẢNH TRÍCH XUẤT TỪ CAMERA</center>
+<h4 style="text-align: center;">Tổng quan về đồ án cuối kỳ</h4>
+<h4 style="text-align: center;">ĐEO KHẨU TRANG VỚI ẢNH TRÍCH XUẤT TỪ CAMERA</h4>
 
 ---
 ** Chú thích
