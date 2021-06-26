@@ -31,7 +31,7 @@ Nhóm máy học lớp CS114.L22.KHCL - UIT
   - [x] **[Dự đoán tiêu đề châm biếm](https://colab.research.google.com/drive/1zPesMhnGlEITGElioaj5pqfVAMIGnIBw?usp=sharing)**
 ---
 
-<h2 align="center">CHỦ ĐỀ ĐỒ ÁN CUỐI KỲ: ĐEO KHẨU TRANG VỚI ẢNH TRÍCH XUẤT TỪ CAMERA</h2>
+<h2 align="center">CHỦ ĐỀ ĐỒ ÁN CUỐI KỲ: NHẬN BIẾT ĐEO KHẨU TRANG VỚI ẢNH TRÍCH XUẤT TỪ CAMERA</h2>
 
 ---
 ** Chú thích
