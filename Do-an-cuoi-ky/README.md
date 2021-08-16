@@ -1,4 +1,4 @@
-# **Tóm TẮT Đồ án máy học: Nhận biết đeo khẩu trang đúng cách**
+# **Tóm tắt đồ án máy học: Nhận biết đeo khẩu trang đúng cách**
 # Danh sách thành viên
 ---
 - Hồ Hải Thủy - 19522323 <Nhóm trưởng>
