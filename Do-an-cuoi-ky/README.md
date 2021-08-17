@@ -29,5 +29,6 @@ Bộ dữ liệu sau khi được gán nhãn để sử dụng cho mô hình bao
 - Thêm minh họa cho các trường hợp dự đoán của model trong từng giai đoạn
 - Chỉnh sửa tiêu chí thu nhập dữ liệu
 - Thêm các nguồn tham khảo
-# Link mã nguồn (notebook):
+## Link mã nguồn (notebook):
+---
 - https://colab.research.google.com/drive/1P3qKismZOAsh2pYzXZPFsm7ZwBbBwGDk?usp=sharing
