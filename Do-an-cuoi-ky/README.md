@@ -21,6 +21,7 @@ Bộ dữ liệu sau khi được gán nhãn để sử dụng cho mô hình bao
   + Bộ dữ liệu ở nơi công cộng được chỉnh sáng tối gồm 1252 hình, 2460 object mask và1752 object no_mask.
 + Quyền sử dụng data: Đã được cấp phép <Vì vấn đề bảo mật nên bọn em xin được nói riêng với thầy ạ>
 + Link tổng hợp data: https://drive.google.com/drive/folders/15scSAR-3FqXaA2Cx6xHINRObkBjHpJ0t
++ Linh bộ test mới để đánh giá model: https://drive.google.com/drive/folders/1rlPZ3gncHxcZ1ue7CPu3uQurBBdMNwvF?usp=sharing 
 ## CÁC THAY ĐỔI So với lần báo cáo
 ---
 - Thống kê và minh hoạ lại chi tiết các bộ dữ liệu từ tổng quát cho đến chi tiết các ảnh khó xử lý
