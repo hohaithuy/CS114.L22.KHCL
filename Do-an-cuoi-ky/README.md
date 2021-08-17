@@ -22,7 +22,7 @@ Bộ dữ liệu sau khi được gán nhãn để sử dụng cho mô hình bao
 + Quyền sử dụng data: Đã được cấp phép <Vì vấn đề bảo mật nên bọn em xin được nói riêng với thầy ạ>
 + Link tổng hợp data: https://drive.google.com/drive/folders/15scSAR-3FqXaA2Cx6xHINRObkBjHpJ0t
   + Trong đó các folder từ data -> data 6 tương ứng với dữ liệu thêm vào cho giai đoạn 1 -> 6
-+ Link bộ test mới để đánh giá model: https://drive.google.com/drive/folders/1rlPZ3gncHxcZ1ue7CPu3uQurBBdMNwvF?usp=sharing 
++ Link bộ test mới dùng để đánh giá model: https://drive.google.com/drive/folders/1rlPZ3gncHxcZ1ue7CPu3uQurBBdMNwvF?usp=sharing 
 ## CÁC THAY ĐỔI So với lần báo cáo
 ---
 - Thống kê và minh hoạ lại chi tiết các bộ dữ liệu từ tổng quát cho đến chi tiết các ảnh khó xử lý
