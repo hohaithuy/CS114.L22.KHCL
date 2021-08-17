@@ -10,6 +10,10 @@ Bài toán được áp dụng trên camera an ninh. Vậy nên, ta trích xuấ
 - Input: 1 bức ảnh được trích xuất từ camera.
 - Output: 1 bức ảnh đánh dấu những đối tượng trong bức ảnh đó có đeo khẩu trang đúng cách hay không.
 Khi đó việc xử lý liên tục các bức ảnh theo thứ tự, khi ghép lại thành một đoạn video hoàn chỉnh ta có thể hiển thị cảnh báo một cách rõ ràng và dễ sử dụng với người dùng.
+## Chiến lược training model:
+---
+-Chiến lược training (Yolov4):Nhóm sẽ chia ra nhiều giai đoạn train (6 giai đoạn) và đánhgiá theo từng giai đoạn. Mỗi giai đoạn sẽ có sự thay đổi trong dữ liệu training để cảitiến những nhược điểm mà giai đoạn trước để lại. Những nhược điểm này được tìm radựa trên phân tích số lượng object mỗi class, mAP,test thử trên ảnh khác ngữ cảnh...Từ đó đưa ra những dự đoán và khắc phục ở lần train tiếp theo.
+-Chiến lược training (Detectron2): Do đã có kinh nghiệm và bộ dữ liệu hoàn chỉnh sau khi train Yolov4, nên ở Detectron2 nhóm chỉ bỏ dữ liệu trước đó vào và train.
 # Thống Kê Dữ liệu
 ---
 Bộ dữ liệu sau khi được gán nhãn để sử dụng cho mô hình bao gồm 3725 hình ảnh định dạng .png, 3725 file chú thích .txt làm label cho ảnh
@@ -23,9 +27,7 @@ Bộ dữ liệu sau khi được gán nhãn để sử dụng cho mô hình bao
 + Link tổng hợp data: https://drive.google.com/drive/folders/15scSAR-3FqXaA2Cx6xHINRObkBjHpJ0t
   + Trong đó các folder từ data -> data 6 tương ứng với dữ liệu thêm vào cho giai đoạn 1 -> 6
 + Link bộ test mới dùng để đánh giá model: https://drive.google.com/drive/folders/1rlPZ3gncHxcZ1ue7CPu3uQurBBdMNwvF?usp=sharing 
-##Chiến lược training model:
----
--Chiến lược training:Nhóm sẽ chia ra nhiều giai đoạn train (6 giai đoạn) và đánhgiá theo từng giai đoạn. Mỗi giai đoạn sẽ có sự thay đổi trong dữ liệu training để cảitiến những nhược điểm mà giai đoạn trước để lại. Những nhược điểm này được tìm radựa trên phân tích số lượng object mỗi class, mAP,test thử trên ảnh khác ngữ cảnh...Từ đó đưa ra những dự đoán và khắc phục ở lần train tiếp theo.
+
 ## CÁC THAY ĐỔI So với lần báo cáo
 ---
 - Thống kê và minh hoạ lại chi tiết các bộ dữ liệu từ tổng quát cho đến chi tiết các ảnh khó xử lý
