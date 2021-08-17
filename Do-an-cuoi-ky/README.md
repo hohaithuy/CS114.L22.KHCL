@@ -38,4 +38,7 @@ Bộ dữ liệu sau khi được gán nhãn để sử dụng cho mô hình bao
 - Loại bỏ những hình không cần thiết, giảm độ dài bài báo cáo
 ## Link mã nguồn (notebook):
 ---
-  - https://colab.research.google.com/drive/1P3qKismZOAsh2pYzXZPFsm7ZwBbBwGDk?usp=sharing
+- https://colab.research.google.com/drive/1P3qKismZOAsh2pYzXZPFsm7ZwBbBwGDk?usp=sharing
+## Link github:
+---
+- https://github.com/taolaobd/CS114.L22.KHCL
