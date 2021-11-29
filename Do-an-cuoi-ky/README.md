@@ -1,8 +1,8 @@
 # **Tóm tắt đồ án máy học: Nhận biết đeo khẩu trang đúng cách**
 # Danh sách thành viên
 ---
-- Hồ Hải Thủy - 19522323 <Nhóm trưởng>
-- Nguyễn Khả Tiến - 19522337
+- Hồ Hải Thủy - 19522323 
+- Nguyễn Khả Tiến - 19522337 <Nhóm trưởng>
 - Nguyễn Mạnh Toàn - 19522363
 # Mô tả
 ---
